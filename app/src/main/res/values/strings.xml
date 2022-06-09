@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SchoolCard</string>
+    <string name="chuxiao">出校：学生:蔡家宝-2019610203015，没有找到离校申请，不通过</string>
+    <string name="title_activity_kado">KadoActivity</string>
+</resources>
